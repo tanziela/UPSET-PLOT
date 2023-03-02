@@ -1,0 +1,11 @@
+Row;Redness of skin;Dry skin;Cracked skin;Discharge/crusty skin;Small blisters filled with fluid;Papules;Wheal;Itchy skin;Burning/stabbing/stinging sensation;Pain;;
+R1;1;1;0;0;0;0;1;1;0;0
+R2;1;1;1;1;1;1;1;1;1;1
+R3;1;1;0;0;0;0;0;1;0;0
+R4;1;1;1;1;1;1;0;1;0;0
+R5;1;0;0;0;0;0;0;1;0;0
+R6;1;1;0;0;0;0;0;1;0;0
+R7;0;0;0;0;0;0;0;0;0;0
+R8;1;0;0;0;0;0;1;1;0;0
+R9;0;0;1;0;0;0;0;0;0;0
+R10;1;0;1;0;1;0;0;1;0;1
